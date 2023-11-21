@@ -1,0 +1,7168 @@
+{
+    "ESTACION DE SERVICIOS COMBUSTIBLES SAN ANTONIO S.A.S.": [
+        {
+            "lat-lon": [
+                10.3889016,
+                -75.5187991
+            ],
+            "nombre": "Hotel Altamar Cartagena",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3871638,
+                -75.5053013
+            ],
+            "nombre": "Hotel Cordialidad Plaza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3912243,
+                -75.5224252
+            ],
+            "nombre": "Hotel Palma Real",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3889817,
+                -75.5213899
+            ],
+            "nombre": "Hotel La Ceiba Cartagena",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3945849,
+                -75.5204012
+            ],
+            "nombre": "Hotel Bocachica",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3776124,
+                -75.50933359999999
+            ],
+            "nombre": "Contecar Terminal",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3873281,
+                -75.51102
+            ],
+            "nombre": "Bombas Y Montajes",
+            "tipo": [
+                "general_contractor",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3870543,
+                -75.5115077
+            ],
+            "nombre": "Dotaciones SINEL",
+            "tipo": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3871595,
+                -75.51097779999999
+            ],
+            "nombre": "Fluiconnecto Cartagena",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3878183,
+                -75.5114754
+            ],
+            "nombre": "Persocaribe",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3872448,
+                -75.5107617
+            ],
+            "nombre": "IZASEG SAS",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3871699,
+                -75.5106665
+            ],
+            "nombre": "Anclajes Cartagena JC",
+            "tipo": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3873512,
+                -75.5104966
+            ],
+            "nombre": "IMI Ingenieria Montaje y Mantenimiento Industrial",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3874153,
+                -75.51052589999999
+            ],
+            "nombre": "SITTCA SAS",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3874043,
+                -75.5104909
+            ],
+            "nombre": "ESMAS",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3874747,
+                -75.5104656
+            ],
+            "nombre": "ESMAS Estrategias, Soluciones y Mantenimientos S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3882732,
+                -75.5124158
+            ],
+            "nombre": "Tubos y Metales",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3872463,
+                -75.50971030000001
+            ],
+            "nombre": "Manteneq S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LA INDUSTRIA SAS": [
+        {
+            "lat-lon": [
+                3.3466326,
+                -76.264601
+            ],
+            "nombre": "Petromil Industry",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3467973,
+                -76.2648416
+            ],
+            "nombre": "El Parador De Aguaclara",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3467974,
+                -76.26484169999999
+            ],
+            "nombre": "Alumva",
+            "tipo": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3467974,
+                -76.26484169999999
+            ],
+            "nombre": "Panader\u00eda Florida",
+            "tipo": [
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3476434,
+                -76.26488169999999
+            ],
+            "nombre": "Subestaci\u00f3n Florida celsia",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3447254,
+                -76.2652529
+            ],
+            "nombre": "Suerte 05G",
+            "tipo": [
+                "car_dealer",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.343318,
+                -76.2641096
+            ],
+            "nombre": "Suerte 5G",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3432912,
+                -76.2621274
+            ],
+            "nombre": "Suerte 02a",
+            "tipo": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.342522,
+                -76.2617258
+            ],
+            "nombre": "Suerte 2a",
+            "tipo": [
+                "storage",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3415045,
+                -76.2641676
+            ],
+            "nombre": "Suerte 5W",
+            "tipo": [
+                "campground",
+                "park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3406507,
+                -76.26315199999999
+            ],
+            "nombre": "Hacienda la industria",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.340389,
+                -76.2659177
+            ],
+            "nombre": "Suerte 005",
+            "tipo": [
+                "storage",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3368129,
+                -76.2674871
+            ],
+            "nombre": "Suerte 01A",
+            "tipo": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3370318,
+                -76.260093
+            ],
+            "nombre": "Suerte 023",
+            "tipo": [
+                "car_dealer",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.338694299999999,
+                -76.2574114
+            ],
+            "nombre": "Suerte 027",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.3360455,
+                -76.2583207
+            ],
+            "nombre": "Suerte 0024",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS LA 84": [
+        {
+            "lat-lon": [
+                11.0040697,
+                -74.81281520000002
+            ],
+            "nombre": "Hotel NH Collection Barranquilla Smartsuites Royal",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.009935,
+                -74.8114525
+            ],
+            "nombre": "Hotel American Golf",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0035772,
+                -74.81125639999999
+            ],
+            "nombre": "Barranquilla Plaza Hotel",
+            "tipo": [
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.001942,
+                -74.81922999999999
+            ],
+            "nombre": "WINDSOR HOTEL BARRANQUILLA",
+            "tipo": [
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0130763,
+                -74.82690459999999
+            ],
+            "nombre": "Dann Carlton Hotel Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0048807,
+                -74.8102754
+            ],
+            "nombre": "Washington Plaza by DOT Premium",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0020818,
+                -74.8197072
+            ],
+            "nombre": "Hotel Standford Plaza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9975054,
+                -74.810028
+            ],
+            "nombre": "Hotel Virrey 76 Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0035813,
+                -74.8214807
+            ],
+            "nombre": "Hotel Suite Continental",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.003831,
+                -74.824659
+            ],
+            "nombre": "Hotel Ayenda Charthon 1316",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0011639,
+                -74.8056105
+            ],
+            "nombre": "Country International Hotel",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9954829,
+                -74.8143936
+            ],
+            "nombre": "HOTEL INTERSUITES",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0053163,
+                -74.8199667
+            ],
+            "nombre": "Hampton by Hilton Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0109812,
+                -74.8230859
+            ],
+            "nombre": "HOTEL VIVA BARRANQUILLA",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.007313,
+                -74.82161219999999
+            ],
+            "nombre": "Colegio Liceo de Cervantes",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9985097,
+                -74.8127932
+            ],
+            "nombre": "Casa Vieja",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0101545,
+                -74.82515149999999
+            ],
+            "nombre": "HOTEL OR SUITES",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0104639,
+                -74.82309479999999
+            ],
+            "nombre": "Hotel Home Buenavista",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS LA 30": [
+        {
+            "lat-lon": [
+                10.9783032,
+                -74.77972059999999
+            ],
+            "nombre": "Museo del Atl\u00e1ntico",
+            "tipo": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9810158,
+                -74.782112
+            ],
+            "nombre": "HOTEL AVANTY",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9812415,
+                -74.78203470000001
+            ],
+            "nombre": "Hotel los \u00c1ngeles",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9748667,
+                -74.7809027
+            ],
+            "nombre": "Hotel Retro",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9750634,
+                -74.7806148
+            ],
+            "nombre": "Las Camelias la 35",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9767254,
+                -74.7801765
+            ],
+            "nombre": "Hotel California VIP",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9819686,
+                -74.77828819999999
+            ],
+            "nombre": "BBVA",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.980983,
+                -74.7833225
+            ],
+            "nombre": "Hotel Jazahi",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9804784,
+                -74.7781722
+            ],
+            "nombre": "Hotel Hispanoamericano",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9832213,
+                -74.7806512
+            ],
+            "nombre": "Santander",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9827688,
+                -74.7785311
+            ],
+            "nombre": "CENTRO COMERCIAL COLOMBIA",
+            "tipo": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9813498,
+                -74.7802193
+            ],
+            "nombre": "Colpatria Centro ATM",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9833995,
+                -74.7833379
+            ],
+            "nombre": "Hotel Colonial Inn",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9814413,
+                -74.7794598
+            ],
+            "nombre": "Bancolombia",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9834647,
+                -74.7759243
+            ],
+            "nombre": "Hotel Alicante Boutique & Spa",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9825589,
+                -74.78490529999999
+            ],
+            "nombre": "Hotel Fontamar",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9771178,
+                -74.7849544
+            ],
+            "nombre": "Hotel Nueva Esperanza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9711666,
+                -74.7893408
+            ],
+            "nombre": "Banco Popular",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS PARAISO": [
+        {
+            "lat-lon": [
+                10.9783032,
+                -74.77972059999999
+            ],
+            "nombre": "Museo del Atl\u00e1ntico",
+            "tipo": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9810158,
+                -74.782112
+            ],
+            "nombre": "HOTEL AVANTY",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9915524,
+                -74.7908262
+            ],
+            "nombre": "Hotel Majestic",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9850197,
+                -74.7844176
+            ],
+            "nombre": "Hotel Genova",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9910994,
+                -74.79402069999999
+            ],
+            "nombre": "CASA BOSTON INN",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9812415,
+                -74.78203470000001
+            ],
+            "nombre": "Hotel los \u00c1ngeles",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9855734,
+                -74.7844293
+            ],
+            "nombre": "Hotel Girasol",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9897599,
+                -74.7849231
+            ],
+            "nombre": "Hostal El parque",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9832213,
+                -74.7806512
+            ],
+            "nombre": "Santander",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9855351,
+                -74.78577
+            ],
+            "nombre": "Mc",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9819686,
+                -74.77828819999999
+            ],
+            "nombre": "BBVA",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.984022,
+                -74.791356
+            ],
+            "nombre": "Colombo American Cultural Center - Center Headquarters",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9748667,
+                -74.7809027
+            ],
+            "nombre": "Hotel Retro",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9875371,
+                -74.7851973
+            ],
+            "nombre": "Banco Agrario",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.980983,
+                -74.7833225
+            ],
+            "nombre": "Hotel Jazahi",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9767254,
+                -74.7801765
+            ],
+            "nombre": "Hotel California VIP",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9906783,
+                -74.7942499
+            ],
+            "nombre": "Hostal 58",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9750634,
+                -74.7806148
+            ],
+            "nombre": "Las Camelias la 35",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS PORVENIR": [
+        {
+            "lat-lon": [
+                11.0040697,
+                -74.81281520000002
+            ],
+            "nombre": "Hotel NH Collection Barranquilla Smartsuites Royal",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0035772,
+                -74.81125639999999
+            ],
+            "nombre": "Barranquilla Plaza Hotel",
+            "tipo": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9938221,
+                -74.80950159999999
+            ],
+            "nombre": "Hotel Atrium Plaza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9943195,
+                -74.8029736
+            ],
+            "nombre": "Hotel Costa Linda Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.001942,
+                -74.81922999999999
+            ],
+            "nombre": "WINDSOR HOTEL BARRANQUILLA",
+            "tipo": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0048807,
+                -74.8102754
+            ],
+            "nombre": "Washington Plaza by DOT Premium",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9956798,
+                -74.8040771
+            ],
+            "nombre": "Howard Johnson by Wyndham Barranquilla Versalles",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9953381,
+                -74.8036844
+            ],
+            "nombre": "Hotel Puerta de Oro",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9972652,
+                -74.8024579
+            ],
+            "nombre": "HOTEL GENOVA PRADO BED & BREAKFAST",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0011639,
+                -74.8056105
+            ],
+            "nombre": "Country International Hotel",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9922737,
+                -74.810767
+            ],
+            "nombre": "Hotel Faranda Express Puerta del Sol Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9975054,
+                -74.810028
+            ],
+            "nombre": "Hotel Virrey 76 Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9867495,
+                -74.8088519
+            ],
+            "nombre": "Hotel Golden House",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9971159,
+                -74.7999442
+            ],
+            "nombre": "Hotel Caribe Plaza Barranquilla",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9954829,
+                -74.8143936
+            ],
+            "nombre": "HOTEL INTERSUITES",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0020818,
+                -74.8197072
+            ],
+            "nombre": "Hotel Standford Plaza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9966981,
+                -74.80471059999999
+            ],
+            "nombre": "Ayenda 1313 Barahona 72",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9913225,
+                -74.8047813
+            ],
+            "nombre": "HOTEL EXITO BARRANQUILLA",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS AUTOMOTRIZ LA TORCOROMA": [
+        {
+            "lat-lon": [
+                11.0106658,
+                -74.9337692
+            ],
+            "nombre": "UNAD PUERTO COLOMBIA",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0098835,
+                -74.9441287
+            ],
+            "nombre": "PANES & POSTRES ALTA PANADERIA",
+            "tipo": [
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9987007,
+                -74.9364264
+            ],
+            "nombre": "Primax | Puerto Colombia",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.99875,
+                -74.93639999999999
+            ],
+            "nombre": "Gasolinera",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9988787,
+                -74.9363485
+            ],
+            "nombre": "CAFETERIA TORCOROMA",
+            "tipo": [
+                "convenience_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9989272,
+                -74.93661070000002
+            ],
+            "nombre": "Montallantas",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9989223,
+                -74.93672049999999
+            ],
+            "nombre": "Torcoroma Comercializadora Industrial",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.997862,
+                -74.9357879
+            ],
+            "nombre": "colegio chicito mary mount",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.000739,
+                -74.9294815
+            ],
+            "nombre": "CONTECSA S.A.S.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0029448,
+                -74.9294951
+            ],
+            "nombre": "CEID NS9",
+            "tipo": [
+                "campground",
+                "park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9921921,
+                -74.94204940000002
+            ],
+            "nombre": "Club De Caza Y Tiro De Barranquilla",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.994668,
+                -74.94409449999999
+            ],
+            "nombre": "Luxury GYG",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.99436,
+                -74.94422
+            ],
+            "nombre": "Vacunaci\u00f3n COVID-19 - Luis Javier Diago Gonzalez",
+            "tipo": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.001495,
+                -74.92763699999999
+            ],
+            "nombre": "Barranquilla Club Campestre",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0029913,
+                -74.92818740000001
+            ],
+            "nombre": "Helipuerto Uraca",
+            "tipo": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0007466,
+                -74.9268517
+            ],
+            "nombre": "Colegio IDPHU Campestre Biling\u00fce",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9942332,
+                -74.94464119999999
+            ],
+            "nombre": "Primax",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.993968,
+                -74.9447708
+            ],
+            "nombre": "T\u00f3tem 90",
+            "tipo": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SERVICENTRO ATLANTICO 1": [
+        {
+            "lat-lon": [
+                10.9783032,
+                -74.77972059999999
+            ],
+            "nombre": "Museo del Atl\u00e1ntico",
+            "tipo": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9810158,
+                -74.782112
+            ],
+            "nombre": "HOTEL AVANTY",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9819686,
+                -74.77828819999999
+            ],
+            "nombre": "BBVA",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9812415,
+                -74.78203470000001
+            ],
+            "nombre": "Hotel los \u00c1ngeles",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9832213,
+                -74.7806512
+            ],
+            "nombre": "Santander",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9804784,
+                -74.7781722
+            ],
+            "nombre": "Hotel Hispanoamericano",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9767254,
+                -74.7801765
+            ],
+            "nombre": "Hotel California VIP",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9834647,
+                -74.7759243
+            ],
+            "nombre": "Hotel Alicante Boutique & Spa",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9748667,
+                -74.7809027
+            ],
+            "nombre": "Hotel Retro",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9750634,
+                -74.7806148
+            ],
+            "nombre": "Las Camelias la 35",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9827688,
+                -74.7785311
+            ],
+            "nombre": "CENTRO COMERCIAL COLOMBIA",
+            "tipo": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9834013,
+                -74.7777939
+            ],
+            "nombre": "Calzado Bucaramanga",
+            "tipo": [
+                "shoe_store",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.980983,
+                -74.7833225
+            ],
+            "nombre": "Hotel Jazahi",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9813498,
+                -74.7802193
+            ],
+            "nombre": "Colpatria Centro ATM",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9814413,
+                -74.7794598
+            ],
+            "nombre": "Bancolombia",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9833995,
+                -74.7833379
+            ],
+            "nombre": "Hotel Colonial Inn",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9827687,
+                -74.7810823
+            ],
+            "nombre": "Banco Caja Social",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9854832,
+                -74.7810361
+            ],
+            "nombre": "Transit Atlantico",
+            "tipo": [
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS BRISAS DEL MAR I": [
+        {
+            "lat-lon": [
+                10.7719143,
+                -75.2111513
+            ],
+            "nombre": "Petromil| Brisas del Mar",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7719147,
+                -75.2109298
+            ],
+            "nombre": "Nova Market Petromil Brisas Del Mar",
+            "tipo": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7724009,
+                -75.20834350000001
+            ],
+            "nombre": "Restaurante Y Estadero MAURITANA",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7727068,
+                -75.2082588
+            ],
+            "nombre": "Ciclo Crespo",
+            "tipo": [
+                "bicycle_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.76669,
+                -75.21663
+            ],
+            "nombre": "parque acuatico acuacede",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7745536,
+                -75.2038294
+            ],
+            "nombre": "CEMEX | Planta Cemento Clemencia",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7745536,
+                -75.2038294
+            ],
+            "nombre": "INSTITUCION EDUCATIVA ARROYO DE PIEDRA",
+            "tipo": [
+                "secondary_school",
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.775466,
+                -75.2025456
+            ],
+            "nombre": "Poblado Campestre Altos Del Mar Sala de Ventas",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.775565,
+                -75.20231
+            ],
+            "nombre": "Condominio Campestre Altos Del Mar",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7759938,
+                -75.2019495
+            ],
+            "nombre": "Poblado Campestre Altos del Mar - Sala de Ventas",
+            "tipo": [
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7798261,
+                -75.20192949999999
+            ],
+            "nombre": "ALTOS DEL MAR",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.7675324,
+                -75.19918779999999
+            ],
+            "nombre": "Reservorio El Cerrito",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS CAUJARAL 2": [
+        {
+            "lat-lon": [
+                11.0185768,
+                -74.87520289999999
+            ],
+            "nombre": "Universidad del Atl\u00e1ntico",
+            "tipo": [
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0253989,
+                -74.8609793
+            ],
+            "nombre": "Reserva Campestre",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0307379,
+                -74.8715462
+            ],
+            "nombre": "Adelita de Char Etp 3",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0184871,
+                -74.874607
+            ],
+            "nombre": "Bloque D",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0205846,
+                -74.87164159999999
+            ],
+            "nombre": "Droguer\u00edas Farmavida",
+            "tipo": [
+                "pharmacy",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0205105,
+                -74.8716477
+            ],
+            "nombre": "servibanca",
+            "tipo": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0205275,
+                -74.8710112
+            ],
+            "nombre": "Foryem",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.021016,
+                -74.8711707
+            ],
+            "nombre": "Cb AdoraSion Eterna",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0199847,
+                -74.8723073
+            ],
+            "nombre": "Facultad de Ciencias Jur\u00eddicas UniAtl\u00e1ntico Bloque H",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0197048,
+                -74.8705134
+            ],
+            "nombre": "UNIVERSIDAD ANTONIO NARI\u00d1O",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0202113,
+                -74.8701634
+            ],
+            "nombre": "THE REBATE DROGUERIA",
+            "tipo": [
+                "drugstore",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.020067,
+                -74.86973809999999
+            ],
+            "nombre": "Farmacia Torres",
+            "tipo": [
+                "drugstore",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.01883,
+                -74.8714707
+            ],
+            "nombre": "Canal Telecaribe",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0190241,
+                -74.8725704
+            ],
+            "nombre": "Davivienda Universidad del Atl\u00e1ntico",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0196293,
+                -74.8731394
+            ],
+            "nombre": "Centro De Convenciones Universidad Del Atl\u00e1ntico",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0191881,
+                -74.8731999
+            ],
+            "nombre": "Universidad del Atl\u00e1ntico",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0223553,
+                -74.8699395
+            ],
+            "nombre": "Dise\u00f1o de P\u00e1ginas Web - LAurens Group",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.0193077,
+                -74.87342749999999
+            ],
+            "nombre": "U del Atl\u00e1ntico",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LAS GARZAS": [
+        {
+            "lat-lon": [
+                8.089326999999997,
+                -76.7010243
+            ],
+            "nombre": "Petromil | Las Garzas",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0891934,
+                -76.7005494
+            ],
+            "nombre": "20 de Enero Asados & Mondongos",
+            "tipo": [
+                "restaurant",
+                "food",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0892415,
+                -76.7005234
+            ],
+            "nombre": "Full Mart",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.089093,
+                -76.700606
+            ],
+            "nombre": "Iglesia",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.089919799999999,
+                -76.7026434
+            ],
+            "nombre": "Lavadero de Motos",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.088707399999999,
+                -76.6992661
+            ],
+            "nombre": "Iglesia Caminando Bajo La Presencia de Dios",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0899767,
+                -76.7034638
+            ],
+            "nombre": "B.C.M EXPORT S.A.S",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.090751899999999,
+                -76.7057548
+            ],
+            "nombre": "Chorizos las garzas",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0857762,
+                -76.704274
+            ],
+            "nombre": "Oficina Abogada Portillo",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.085720499999999,
+                -76.7046178
+            ],
+            "nombre": "Valanestilojuvenil",
+            "tipo": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.086201899999999,
+                -76.6964689
+            ],
+            "nombre": "Iglesia Adventista del s\u00e9ptimo d\u00eda Esmirna",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.085185899999999,
+                -76.7056743
+            ],
+            "nombre": "Tienda JN",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0831068,
+                -76.7073066
+            ],
+            "nombre": "Fabrica de arepas",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.083755599999998,
+                -76.70805279999999
+            ],
+            "nombre": "Instituci\u00f3n Educativa Desarrollo Rural",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.082478800000002,
+                -76.70767839999999
+            ],
+            "nombre": "Rio casanova",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0920773,
+                -76.710555
+            ],
+            "nombre": "Terpel Servicentro Casanova",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.0986976,
+                -76.7088273
+            ],
+            "nombre": "Universidad Nacional Abierta y a Distancia UNAD CIP Turbo",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.082008799999999,
+                -76.7113522
+            ],
+            "nombre": "Astillero Casanova Unib\u00e1n",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.076853999999999,
+                -76.697123
+            ],
+            "nombre": "I. E. Monte Verde",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS RODEO 1": [
+        {
+            "lat-lon": [
+                10.370264,
+                -75.4654302
+            ],
+            "nombre": "The Technological University of Bolivar",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3835337,
+                -75.46690350000002
+            ],
+            "nombre": "Pensione San Buenaventura",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3787257,
+                -75.4631567
+            ],
+            "nombre": "Juan Felipe G\u00f3mez",
+            "tipo": [
+                "hospital",
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3785891,
+                -75.4621988
+            ],
+            "nombre": "Unifel S.A.",
+            "tipo": [
+                "hardware_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3806493,
+                -75.464603
+            ],
+            "nombre": "EDS Gazel Veal",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3760848,
+                -75.4603977
+            ],
+            "nombre": "SERVIENTREGA",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3760465,
+                -75.460364
+            ],
+            "nombre": "Ps Efecty eds el rodeo",
+            "tipo": [
+                "moving_company",
+                "insurance_agency",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3760907,
+                -75.46047399999999
+            ],
+            "nombre": "Secretaria De Transito Y Transporte De Turbaco - sede El Rodeo",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3756451,
+                -75.46003460000001
+            ],
+            "nombre": "Cajero Autom\u00e1tico Banco Popular",
+            "tipo": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3756804,
+                -75.4614047
+            ],
+            "nombre": "Cancha Sint\u00e9tica Maracan\u00e1",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3751048,
+                -75.4613016
+            ],
+            "nombre": "ASTA Colombia",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3752766,
+                -75.461677
+            ],
+            "nombre": "Europark Cartagena",
+            "tipo": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3788103,
+                -75.46219119999999
+            ],
+            "nombre": "Idroq",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3809743,
+                -75.46036130000002
+            ],
+            "nombre": "TYT DISTRIBUCIONES COLOMBIA SAS",
+            "tipo": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3734435,
+                -75.4579371
+            ],
+            "nombre": "Equinorte S.A. - Cartagena",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3795703,
+                -75.463053
+            ],
+            "nombre": "Emsiso LTDA",
+            "tipo": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3806556,
+                -75.460492
+            ],
+            "nombre": "PINTURAS FERRO CARTAGENA - FERROMOTOREs",
+            "tipo": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3758263,
+                -75.4656085
+            ],
+            "nombre": "Tienda Su hogar",
+            "tipo": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS SERVIEZ": [
+        {
+            "lat-lon": [
+                6.221814900000001,
+                -74.5497026
+            ],
+            "nombre": "Petromil | Serviez",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.2214877,
+                -74.55020549999999
+            ],
+            "nombre": "Residencias Texaco",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.2217235,
+                -74.5470557
+            ],
+            "nombre": "MOR - AL",
+            "tipo": [
+                "storage",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.221553999999999,
+                -74.546875
+            ],
+            "nombre": "Cluster",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.224496,
+                -74.54459899999999
+            ],
+            "nombre": "Moriche Nte 3",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.216330999999998,
+                -74.55081299999999
+            ],
+            "nombre": "Cluster Mor An",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.220009,
+                -74.541681
+            ],
+            "nombre": "Centro de Acopio Drift",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.219519,
+                -74.54177899999999
+            ],
+            "nombre": "Punto de Control CRT Norte",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.2209569,
+                -74.5581922
+            ],
+            "nombre": "corregiduria vasconia",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.230784399999999,
+                -74.5494599
+            ],
+            "nombre": "Cluster AH Norte 7",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.229997000000001,
+                -74.5542007
+            ],
+            "nombre": "La sierra",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.2158637,
+                -74.55684409999999
+            ],
+            "nombre": "Estaci\u00f3n de recibo de combustible Epm Puerto Serviez",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.2298159,
+                -74.555604
+            ],
+            "nombre": "Locaci\u00f3n Nueva",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.210899,
+                -74.550192
+            ],
+            "nombre": "Cluster Moriche Norte AU",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.217531000000001,
+                -74.53900999999999
+            ],
+            "nombre": "Estaci\u00f3n Intermedia Norte",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.231217699999999,
+                -74.5567868
+            ],
+            "nombre": "Salon Comunal Estanco Los Mangos",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.22087,
+                -74.561737
+            ],
+            "nombre": "almacen y taller el crespo",
+            "tipo": [
+                "car_repair",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.221775499999999,
+                -74.5619151
+            ],
+            "nombre": "Sal\u00f3n Cultural Pto Serviez",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SUPER STATION SEVILLA": [
+        {
+            "lat-lon": [
+                8.7760455,
+                -75.86346449999999
+            ],
+            "nombre": "Hotel Sites Monter\u00eda",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.78709,
+                -75.85766
+            ],
+            "nombre": "Texaco GNV",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7746195,
+                -75.86623329999999
+            ],
+            "nombre": "HOTEL UNI\u00d3N PLAZA",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.783487299999997,
+                -75.8597564
+            ],
+            "nombre": "COUNTRY MOTORS MONTERIA",
+            "tipo": [
+                "car_dealer",
+                "car_repair",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7827549,
+                -75.8604355
+            ],
+            "nombre": "Unicia S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7853891,
+                -75.8602064
+            ],
+            "nombre": "Sumintegrales",
+            "tipo": [
+                "pharmacy",
+                "store",
+                "point_of_interest",
+                "health",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7818348,
+                -75.86074339999999
+            ],
+            "nombre": "TOMMY HILFIGER Buenavista Monter\u00eda",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.781804099999999,
+                -75.86051859999999
+            ],
+            "nombre": "imat Oncomedica S.A.",
+            "tipo": [
+                "hospital",
+                "doctor",
+                "point_of_interest",
+                "health",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.781804099999999,
+                -75.86051859999999
+            ],
+            "nombre": "STIK Buenavista Monter\u00eda",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7854412,
+                -75.85852129999999
+            ],
+            "nombre": "Centro de Idiomas de la Universidad de C\u00f3rdoba - Sucursal",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.786166099999997,
+                -75.8583812
+            ],
+            "nombre": "Distribuciones Agralba",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7795088,
+                -75.8619779
+            ],
+            "nombre": "El Punto M\u00faltiple del Sabor - Hot / C.C Buenavista",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7795274,
+                -75.862087
+            ],
+            "nombre": "Studio F",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.787358,
+                -75.8580412
+            ],
+            "nombre": "Estacion Bisin\u00fa Universidad De C\u00f3rdoba",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.779353,
+                -75.8619003
+            ],
+            "nombre": "Kokoriko",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.779379199999997,
+                -75.86209
+            ],
+            "nombre": "Frisby Buena Vista",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.779285300000002,
+                -75.8620802
+            ],
+            "nombre": "Leonisa Buenavista Monter\u00eda",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.7790597,
+                -75.8612484
+            ],
+            "nombre": "Review",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS PLAZA BONITA": [
+        {
+            "lat-lon": [
+                8.2962277,
+                -75.5245784
+            ],
+            "nombre": "EDS Plaza Bonita Petromil",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.2962203,
+                -75.5245863
+            ],
+            "nombre": "Ecos",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.2958377,
+                -75.52453299999999
+            ],
+            "nombre": "Terpel restaurante",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.294666,
+                -75.522679
+            ],
+            "nombre": "Montallantas San Carlos",
+            "tipo": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.294608799999999,
+                -75.52243899999999
+            ],
+            "nombre": "Tienda Plaza Bonita",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.2945411,
+                -75.52203779999999
+            ],
+            "nombre": "Montallantas",
+            "tipo": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.295241899999999,
+                -75.5205756
+            ],
+            "nombre": "Vacunaci\u00f3n COVID-19 - Centro De Salud Plaza Bonita",
+            "tipo": [
+                "point_of_interest",
+                "health",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.294633,
+                -75.52050299999999
+            ],
+            "nombre": "Restaurante Donde Rochy",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.29204,
+                -75.5206
+            ],
+            "nombre": "Restaurante el Viajero",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.296117299999999,
+                -75.51776590000001
+            ],
+            "nombre": "Instituci\u00f3n Educativa Plaza Bonita",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.3034623,
+                -75.5316617
+            ],
+            "nombre": "Peaje Los Manguitos | ANI",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.3062811,
+                -75.533509
+            ],
+            "nombre": "Vereda La Zona",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SUPER ESTACION GUADALUPE": [
+        {
+            "lat-lon": [
+                8.513971699999997,
+                -75.5093869
+            ],
+            "nombre": "Terpel",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5016262,
+                -75.50881980000001
+            ],
+            "nombre": "EFECTY CENTRO CARRERA 11",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.503537699999999,
+                -75.5075912
+            ],
+            "nombre": "H\u00e9ctor Hoyos",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5032201,
+                -75.5073812
+            ],
+            "nombre": "EFECTY PUEBLO NUEVO CARRERA 11",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.502849399999999,
+                -75.5071902
+            ],
+            "nombre": "ESE CAMU Pueblo Nuevo",
+            "tipo": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5110687,
+                -75.508543
+            ],
+            "nombre": "Instituci\u00f3n Educativa El Rosario. Pueblo Nuevo. C\u00f3rdoba",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.501171000000001,
+                -75.5133425
+            ],
+            "nombre": "Petromil | Guadalupe",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5014192,
+                -75.5131373
+            ],
+            "nombre": "Entrada Rasqui\u00f1a",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.502775699999999,
+                -75.5123432
+            ],
+            "nombre": "Restaurante DONDE PETRA",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.502711999999999,
+                -75.5122458
+            ],
+            "nombre": "Inversiones Ragacol",
+            "tipo": [
+                "hardware_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5031336,
+                -75.5126447
+            ],
+            "nombre": "Motel Fantas\u00eda",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5011546,
+                -75.5108424
+            ],
+            "nombre": "Parque Calle de la Cruz",
+            "tipo": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5003902,
+                -75.5104305
+            ],
+            "nombre": "La Casa Del Manco Arroyo",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.498784200000001,
+                -75.5111709
+            ],
+            "nombre": "Iglesia Cristiana El Cordero De Dios",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.499268199999998,
+                -75.51066399999999
+            ],
+            "nombre": "Papeleria jachocell",
+            "tipo": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5007655,
+                -75.51007
+            ],
+            "nombre": "Casa del Benitez",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5044001,
+                -75.51198819999999
+            ],
+            "nombre": "familiar lara bonilla Park",
+            "tipo": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4983912,
+                -75.5112386
+            ],
+            "nombre": "Jugos",
+            "tipo": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS FLOREZ - SERVICENTRO FLOREZ No 1": [
+        {
+            "lat-lon": [
+                8.9517404,
+                -75.4466072
+            ],
+            "nombre": "Drogas La Econom\u00eda",
+            "tipo": [
+                "pharmacy",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9531739,
+                -75.44820039999999
+            ],
+            "nombre": "Tienda Noomeral",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.952818799999998,
+                -75.44758929999999
+            ],
+            "nombre": "LA REBAJA NO. 2 - SAHAGUN",
+            "tipo": [
+                "drugstore",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.954726499999998,
+                -75.4495579
+            ],
+            "nombre": "Tienda PICARDIAS",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.951556199999999,
+                -75.4461913
+            ],
+            "nombre": "EFECTY CALLE 18 AVENIDA HOSPITAL",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.955826199999999,
+                -75.45023119999999
+            ],
+            "nombre": "V\u00cdA BALOTO TELEVARIEDADES AVENIDA SAHAG\u00daN",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.951086099999998,
+                -75.4455576
+            ],
+            "nombre": "Hospital Sahag\u00fan",
+            "tipo": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.949945699999999,
+                -75.44747389999999
+            ],
+            "nombre": "Chepe's Comidas R\u00e1pidas",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9499575,
+                -75.44736689999999
+            ],
+            "nombre": "Fundaci\u00f3n Servicios y Obras Sociales de Colombia S.O.S.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9505305,
+                -75.4455085
+            ],
+            "nombre": "Edupol Centro Asociado de Sahagun",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9491304,
+                -75.4490539
+            ],
+            "nombre": "Efecty MARKET",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.950021999999999,
+                -75.4446901
+            ],
+            "nombre": "KARINA.COM",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.949334,
+                -75.4452852
+            ],
+            "nombre": "Polit\u00e9cnico INDES Sahag\u00fan",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9527512,
+                -75.4428016
+            ],
+            "nombre": "Centro de apoyo universitario Edupol-Funtecsa",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.947699,
+                -75.44706699999999
+            ],
+            "nombre": "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI -- COR SAHAGUN",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.951318199999998,
+                -75.4419699
+            ],
+            "nombre": "INVESTMENT TECHNIQUES ARTESANALES cajos S.A.S.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.948076799999999,
+                -75.4444413
+            ],
+            "nombre": "LA REBAJA PLUS NO. 1 - SAHAGUN",
+            "tipo": [
+                "drugstore",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.948023899999999,
+                -75.44411869999999
+            ],
+            "nombre": "V\u00cdA BALOTO DROGAS LA GRAN ESMERALDA SAHAG\u00daN",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.9477178,
+                -75.4444225
+            ],
+            "nombre": "Cajero ATH - Banco Popular",
+            "tipo": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS PORTAL DE LAS PRIMAVERAS No.1": [
+        {
+            "lat-lon": [
+                4.6823016,
+                -74.0957509
+            ],
+            "nombre": "Deportel Bogot\u00e1",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6843502,
+                -74.09211169999999
+            ],
+            "nombre": "Angeles Y Reyes",
+            "tipo": [
+                "liquor_store",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.683839499999999,
+                -74.0969255
+            ],
+            "nombre": "Motor Uno Yamaha Boyaca",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6889341,
+                -74.0836518
+            ],
+            "nombre": "Compensar Andar Calle 80",
+            "tipo": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.672014699999999,
+                -74.0904541
+            ],
+            "nombre": "ICBF Instituto Colombiano de Bienestar Familiar",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.681706099999999,
+                -74.0923383
+            ],
+            "nombre": "Supermercado Julieth",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6860642,
+                -74.0897536
+            ],
+            "nombre": "Plaza de Mercado Las Ferias",
+            "tipo": [
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.676006699999999,
+                -74.08013059999999
+            ],
+            "nombre": "Barrios Unidos Local Municipality",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6760018,
+                -74.0871659
+            ],
+            "nombre": "Mitsubishi Motors",
+            "tipo": [
+                "car_dealer",
+                "car_repair",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.670389999999999,
+                -74.0890757
+            ],
+            "nombre": "Cici Aquapark",
+            "tipo": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6890589,
+                -74.08391639999999
+            ],
+            "nombre": "Tracker GPS",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6808348,
+                -74.0824054
+            ],
+            "nombre": "Ciudad Manga",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6725933,
+                -74.0828559
+            ],
+            "nombre": "Fundaci\u00f3n Universitaria Monserrate Unimonserrate - Campus Uni\u00f3n Social",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6758428,
+                -74.0801639
+            ],
+            "nombre": "Tom\u00e1s Carrasquilla School District",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.685069999999999,
+                -74.07942
+            ],
+            "nombre": "Parqueadero Homecenter",
+            "tipo": [
+                "parking",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6757425,
+                -74.0867632
+            ],
+            "nombre": "Carpas Solaire S.A.S - Todo en carpas con calidad y buen precio.",
+            "tipo": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6720926,
+                -74.0807021
+            ],
+            "nombre": "Cigarrer\u00eda La 48",
+            "tipo": [
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.6762663,
+                -74.0857429
+            ],
+            "nombre": "Kingdom Hall of Jehovah's Witnesses",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "PARADOR CORAN": [
+        {
+            "lat-lon": [
+                5.4862518,
+                -74.64083529999999
+            ],
+            "nombre": "EDS PETROMIL CORAN",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.486819500000001,
+                -74.6407725
+            ],
+            "nombre": "Hostal Coran",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.4861999,
+                -74.6413973
+            ],
+            "nombre": "Restaurante el Saz\u00f3n de la Olla",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.484378200000001,
+                -74.6418911
+            ],
+            "nombre": "Police catch",
+            "tipo": [
+                "police",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.4890095,
+                -74.6386309
+            ],
+            "nombre": "LA REDOMA DEL BARRISTA",
+            "tipo": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.487831399999999,
+                -74.6370826
+            ],
+            "nombre": "Vereda tres y medio sector coran",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.4898367,
+                -74.63838849999999
+            ],
+            "nombre": "Finca la esmeralda",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.480307599999999,
+                -74.64361650000001
+            ],
+            "nombre": "Puerto Salgar",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.480277800000001,
+                -74.6436111
+            ],
+            "nombre": "Restaurante Los Santandereanos",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.479489,
+                -74.6438822
+            ],
+            "nombre": "predio de la SAE",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.4795429,
+                -74.64413290000002
+            ],
+            "nombre": "Montallantas",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.495854999999999,
+                -74.639461
+            ],
+            "nombre": "Tienda El Rinc\u00f3n de Yoli",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.475882500000001,
+                -74.6461521
+            ],
+            "nombre": "Casas Modulares Fabricacion",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.475425299999999,
+                -74.6463532
+            ],
+            "nombre": "Fundaci\u00f3n Compartiendo Caminos de Paz",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.475346,
+                -74.6464318
+            ],
+            "nombre": "La Esquina",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.475845799999999,
+                -74.6482824
+            ],
+            "nombre": "Instituto Campestre Santa Teresita",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                5.474412,
+                -74.6468953
+            ],
+            "nombre": "Canchas De Tejo Club Gallistico",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS BULEVAR LA 19": [
+        {
+            "lat-lon": [
+                11.2262461,
+                -74.1873608
+            ],
+            "nombre": "Universidad del Magdalena",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2195835,
+                -74.1916427
+            ],
+            "nombre": "Caba\u00f1a Villa Lucy",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2240571,
+                -74.2013967
+            ],
+            "nombre": "Asamblea de Dios Centro Cristiano Avivamiento",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2319752,
+                -74.19968829999999
+            ],
+            "nombre": "Fedco",
+            "tipo": [
+                "spa",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.233756,
+                -74.2005655
+            ],
+            "nombre": "Alojamiento santa marta",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2233743,
+                -74.196287
+            ],
+            "nombre": "Casa Jenith",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2214836,
+                -74.18088639999999
+            ],
+            "nombre": "Terminal de Transportes de Santa Marta",
+            "tipo": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2186886,
+                -74.1864449
+            ],
+            "nombre": "La Terraza Gourmet",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2229447,
+                -74.19365549999999
+            ],
+            "nombre": "Bancolombia Cajero",
+            "tipo": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2231105,
+                -74.1937603
+            ],
+            "nombre": "Super Giros",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2224533,
+                -74.1940156
+            ],
+            "nombre": "Monumental De Dole",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2234287,
+                -74.1940221
+            ],
+            "nombre": "Rodibombas y Repuestos",
+            "tipo": [
+                "hardware_store",
+                "car_repair",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2220692,
+                -74.194733
+            ],
+            "nombre": "La Sede",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2244363,
+                -74.1944678
+            ],
+            "nombre": "Iglesia Reformada Calvary",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.223252,
+                -74.19200099999999
+            ],
+            "nombre": "EFECTY CA\u00d1AVERAL",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2244153,
+                -74.1927512
+            ],
+            "nombre": "My Forest Kindergarden",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2215177,
+                -74.1921117
+            ],
+            "nombre": "Pescaderia Juancho",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2250668,
+                -74.1949271
+            ],
+            "nombre": "Tiendas Picardias",
+            "tipo": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    ],
+    "ESTACION DE SERVICIOS Y LUBRICANTES MONTECARMELO OLIVAL": [
+        {
+            "lat-lon": [
+                6.1556194,
+                -73.33576649999999
+            ],
+            "nombre": "EDS Petromil Montecarmelo",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.155598599999998,
+                -73.3358141
+            ],
+            "nombre": "Restaurante Montecarmelo Olival",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1557015,
+                -73.3353935
+            ],
+            "nombre": "HOTEL MONTECARMELO",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.156429399999999,
+                -73.3345607
+            ],
+            "nombre": "INTERRAPIDISIMO OLIVAL SANTANDER",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.153614399999999,
+                -73.33594839999999
+            ],
+            "nombre": "Flia. Sanchez Torres",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.157608800000001,
+                -73.3337746
+            ],
+            "nombre": "Restaurante y Hospedaje la Meseta",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.153846199999999,
+                -73.3383822
+            ],
+            "nombre": "Ferreteria & Pinturas Eqz",
+            "tipo": [
+                "hardware_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.153332,
+                -73.3390108
+            ],
+            "nombre": "Almac\u00e9n Sanceyo",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1585793,
+                -73.3330307
+            ],
+            "nombre": "Restaurante y Hospedaje El Triunfo",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.152201000000001,
+                -73.3385095
+            ],
+            "nombre": "Olival Main Park",
+            "tipo": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1517193,
+                -73.33821499999999
+            ],
+            "nombre": "Iglesia Santuario de Santa Rosal\u00eda",
+            "tipo": [
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.152960300000001,
+                -73.33962389999999
+            ],
+            "nombre": "M & C Auteco Motos",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1528772,
+                -73.3396961
+            ],
+            "nombre": "Droguer\u00eda F\u00e9lix",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.152488399999999,
+                -73.3399774
+            ],
+            "nombre": "Placita de Mercado Campesina",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.152372000000001,
+                -73.3400932
+            ],
+            "nombre": "Telecom Olival",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1516076,
+                -73.3393742
+            ],
+            "nombre": "Cancha de B\u00e1squet Olival",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.1514715,
+                -73.3392561
+            ],
+            "nombre": "Restaurante Do\u00f1a Marina",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                6.152158099999999,
+                -73.34009449999999
+            ],
+            "nombre": "TIENDA LA NUVECITA",
+            "tipo": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS PETROMIL LA TRONCAL No.1": [
+        {
+            "lat-lon": [
+                9.3325196,
+                -75.2835893
+            ],
+            "nombre": "Las Brujas Airport",
+            "tipo": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.320763399999997,
+                -75.2884536
+            ],
+            "nombre": "Hospital Nuestra Se\u00f1ora de las Mercedes",
+            "tipo": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.320122,
+                -75.290179
+            ],
+            "nombre": "En Casa Inmobiliaria",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3228565,
+                -75.2918109
+            ],
+            "nombre": "REFRI AIRES",
+            "tipo": [
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3184993,
+                -75.2869253
+            ],
+            "nombre": "Normal Superior School Educational Institution Corozal",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.318378399999999,
+                -75.28991669999999
+            ],
+            "nombre": "SERVIASEO S.A. E.S.P.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3228146,
+                -75.29317
+            ],
+            "nombre": "Casa de Papa Tatis",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.316481399999999,
+                -75.28510039999999
+            ],
+            "nombre": "Colegio Pestalozziano",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.317463300000002,
+                -75.2911276
+            ],
+            "nombre": "V\u00cdA BALOTO DROGAS SUPER BARATA COROZAL",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.319890299999999,
+                -75.293553
+            ],
+            "nombre": "EFECTY COROZAL HOSPITAL",
+            "tipo": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3267519,
+                -75.29440009999999
+            ],
+            "nombre": "ADESA",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.322446,
+                -75.2947803
+            ],
+            "nombre": "Bancam\u00eda Corozal",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3322945,
+                -75.2836185
+            ],
+            "nombre": "SATENA officiates Las Brujas Airport",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3180648,
+                -75.2927356
+            ],
+            "nombre": "KREATIVITY",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3170976,
+                -75.2917586
+            ],
+            "nombre": "REBAJA No. 1 SINCELEJO OLD MARKET",
+            "tipo": [
+                "drugstore",
+                "health",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3246688,
+                -75.2953314
+            ],
+            "nombre": "Ipuc Corozal Central",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.314632499999998,
+                -75.2887853
+            ],
+            "nombre": "The Church of Jesus Christ of Latter Day Saints",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.316193899999998,
+                -75.2925467
+            ],
+            "nombre": "Olimpica COROZAL",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS PETROMIL LA TRONCAL": [
+        {
+            "lat-lon": [
+                9.301614599999997,
+                -75.3923049
+            ],
+            "nombre": "Hotel Central",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.296107099999999,
+                -75.3952355
+            ],
+            "nombre": "Plaza de Majagual",
+            "tipo": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.299264599999999,
+                -75.3865416
+            ],
+            "nombre": "Hotel Capital",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3034187,
+                -75.3878932
+            ],
+            "nombre": "Davivienda Exito ATM",
+            "tipo": [
+                "atm",
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.3020757,
+                -75.388382
+            ],
+            "nombre": "Hotel Panorama",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.282822699999997,
+                -75.3874654
+            ],
+            "nombre": "Sincelejo: Megared News",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.291464999999997,
+                -75.389139
+            ],
+            "nombre": "EFECTY SINCELEJO EL ZUMBADO",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.292440499999998,
+                -75.3859097
+            ],
+            "nombre": "Efecty Sincelejo",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2927997,
+                -75.39053439999999
+            ],
+            "nombre": "EFECTY SINCELEJO BARRIO ESPA\u00d1A CARRERA 19",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.290972599999998,
+                -75.391708
+            ],
+            "nombre": "Dany A Accesorios",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2879914,
+                -75.3905932
+            ],
+            "nombre": "Droguer\u00eda",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.294790599999999,
+                -75.3863748
+            ],
+            "nombre": "MERCADO PRIVADO DE SINCELEJO",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2893583,
+                -75.38360229999999
+            ],
+            "nombre": "EFECTY SINCELEJO EL PROGRESO",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2938023,
+                -75.3839886
+            ],
+            "nombre": "R\u00e1pido Ochoa",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.289226200000002,
+                -75.3828845
+            ],
+            "nombre": "Sal\u00f3n del Reino de los Testigos de Jehov\u00e1",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2972311,
+                -75.39290670000001
+            ],
+            "nombre": "Terpel service station",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.2952464,
+                -75.3834449
+            ],
+            "nombre": "Movil Red Sincelejo Terminal",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                9.290760599999999,
+                -75.3953476
+            ],
+            "nombre": "EFECTY SINCELEJO LA NARCIZA",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "S.S. EL PORTAL DE DAPA MARTIGONZA": [
+        {
+            "lat-lon": [
+                3.5115763,
+                -76.5194295
+            ],
+            "nombre": "Casa del Viento",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5186566,
+                -76.5173574
+            ],
+            "nombre": "Motel Cupido",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.521811399999999,
+                -76.5234648
+            ],
+            "nombre": "Colinas de Arroyohondo Condominios",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5094309,
+                -76.51890999999999
+            ],
+            "nombre": "Lolas Club Colombia",
+            "tipo": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.510357999999999,
+                -76.5152664
+            ],
+            "nombre": "Fenocol S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5159036,
+                -76.5164041
+            ],
+            "nombre": "TRACTOCENTRO COLOMBIA",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5157802,
+                -76.5163116
+            ],
+            "nombre": "Tecnodiesel S.A.S.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.515852799999999,
+                -76.5170771
+            ],
+            "nombre": "Alfredo's Bistro Menga-Cali",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5177657,
+                -76.5168138
+            ],
+            "nombre": "Polimaderas de Colombia",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5176978,
+                -76.5159894
+            ],
+            "nombre": "Imevalle",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.516832999999999,
+                -76.5150326
+            ],
+            "nombre": "Manitoba S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.515762399999999,
+                -76.5146358
+            ],
+            "nombre": "AIF Transportes",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5154224,
+                -76.5146668
+            ],
+            "nombre": "Laboratorios OSA S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.514068699999999,
+                -76.51581589999999
+            ],
+            "nombre": "CARPINDUSTRIAL UMA",
+            "tipo": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.514024899999999,
+                -76.5158268
+            ],
+            "nombre": "FRIGO CARGO INTERNACIONAL LTDA",
+            "tipo": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.517496999999999,
+                -76.5141
+            ],
+            "nombre": "PROESA GLEASON S.A",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.513821,
+                -76.5164385
+            ],
+            "nombre": "Airet\u00e9cnica S.A.",
+            "tipo": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.5137841,
+                -76.5166902
+            ],
+            "nombre": "Distribuidora La Costa S.A.",
+            "tipo": [
+                "bakery",
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SUPER STATION SAN MARTIN": [
+        {
+            "lat-lon": [
+                10.9469327,
+                -74.8217219
+            ],
+            "nombre": "Cl\u00ednica San Ignacio Ltda",
+            "tipo": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9433056,
+                -74.8244814
+            ],
+            "nombre": "Salon Del Reino De Los Testigos De Jehov\u00e1 De Sanluis",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9500993,
+                -74.82183979999999
+            ],
+            "nombre": "Kingdom Hall of Jehovah's Witnesses",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9459234,
+                -74.8221741
+            ],
+            "nombre": "Ol\u00edmpica San Mart\u00edn",
+            "tipo": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "point_of_interest",
+                "food",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9447889,
+                -74.8249675
+            ],
+            "nombre": "Fundaci\u00f3n Semillas de Vida y Esperanza",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9492518,
+                -74.8205847
+            ],
+            "nombre": "Colegio Monse\u00f1or V\u00edctor Tamayo",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9504248,
+                -74.82285159999999
+            ],
+            "nombre": "Bedoya & Visbal Abogados",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9482862,
+                -74.8263061
+            ],
+            "nombre": "Multiservicios Megamas - CALIFORNIA",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9399855,
+                -74.8238275
+            ],
+            "nombre": "Gimnasio Mental",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9399253,
+                -74.82401770000001
+            ],
+            "nombre": "ComboNET CAFE",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9399525,
+                -74.82507939999999
+            ],
+            "nombre": "Colegio San Alberto Magno",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9506187,
+                -74.8177096
+            ],
+            "nombre": "Serteckom",
+            "tipo": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9420363,
+                -74.827572
+            ],
+            "nombre": "District Educational Institution San Luis",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9436858,
+                -74.8296245
+            ],
+            "nombre": "FUMINDUSTRIAL. FUMIGACIONES Y SERVICIOS INDUSTRIALES LTDA",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.937288,
+                -74.8239924
+            ],
+            "nombre": "Multiservicios Megamas - SANTO DOMINGO",
+            "tipo": [
+                "department_store",
+                "finance",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9489032,
+                -74.8131567
+            ],
+            "nombre": "Children International Centro Comunitario 1",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9437021,
+                -74.83066219999999
+            ],
+            "nombre": "EFECTY EDS ECOS SAN LUIS",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9431827,
+                -74.8307524
+            ],
+            "nombre": "Tienda Ara",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "point_of_interest",
+                "food",
+                "store",
+                "establishment"
+            ]
+        }
+    ],
+    "COMBUSTIBLES DE URABA": [
+        {
+            "lat-lon": [
+                8.427656899999999,
+                -76.78917729999999
+            ],
+            "nombre": "Hotel Boutique El Turista",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4247642,
+                -76.7833902
+            ],
+            "nombre": "hotel mansion del darien",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4242869,
+                -76.781977
+            ],
+            "nombre": "Hotel Malec\u00f3n de las Am\u00e9ricas",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.424918200000002,
+                -76.7820378
+            ],
+            "nombre": "PROXXON MARKET BAR",
+            "tipo": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4244583,
+                -76.782789
+            ],
+            "nombre": "Inversiones Turisticas Marin Carrascal",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.424861900000002,
+                -76.7830235
+            ],
+            "nombre": "Panorama Hotel Plaza Real",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4244368,
+                -76.7832056
+            ],
+            "nombre": "comunicaciones luz",
+            "tipo": [
+                "shopping_mall",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.423531999999998,
+                -76.7821184
+            ],
+            "nombre": "Agencia de Viajes Travel Tours Colombia.",
+            "tipo": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.424122199999998,
+                -76.78344009999999
+            ],
+            "nombre": "EFECTY CALLE 50",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4250113,
+                -76.7836264
+            ],
+            "nombre": "Instituci\u00f3n Educativa Rural San Sebastian de Uraba",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4228142,
+                -76.7840217
+            ],
+            "nombre": "iglesia presbiteriana",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.424160400000002,
+                -76.7847627
+            ],
+            "nombre": "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI ANT-NECOCLI",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4247402,
+                -76.7848437
+            ],
+            "nombre": "V\u00cdA BALOTO DROGUERIA EDOSCAR NECOCLI",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.4247315,
+                -76.7850442
+            ],
+            "nombre": "LA REBAJA NO. 1 - NECOCL\u00cd",
+            "tipo": [
+                "drugstore",
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.423961100000001,
+                -76.7853828
+            ],
+            "nombre": "Deposito SuperAgro",
+            "tipo": [
+                "hardware_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.421087,
+                -76.78162999999999
+            ],
+            "nombre": "Hotel Cocobana",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.420888699999999,
+                -76.78181440000002
+            ],
+            "nombre": "El Caribe S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.423644199999998,
+                -76.7866993
+            ],
+            "nombre": "BANCOLOMBIA NECOCLI",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.424482099999999,
+                -76.78698469999999
+            ],
+            "nombre": "Coopetraban",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LA SABANA ": [
+        {
+            "lat-lon": [
+                4.8615787,
+                -74.0325368
+            ],
+            "nombre": "Universidad de La Sabana",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.865313,
+                -74.02418399999999
+            ],
+            "nombre": "Ecodomo CasadeBarro",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8666451,
+                -74.0358687
+            ],
+            "nombre": "Scotiabank Colpatria",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.866364499999999,
+                -74.0360458
+            ],
+            "nombre": "Bbva",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8671714,
+                -74.03637429999999
+            ],
+            "nombre": "Pronto",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8610034,
+                -74.0314874
+            ],
+            "nombre": "Embarcadero",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.869052,
+                -74.023235
+            ],
+            "nombre": "Traico trailers",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8695134,
+                -74.0232776
+            ],
+            "nombre": "55 TRAINING",
+            "tipo": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.863114299999999,
+                -74.0254156
+            ],
+            "nombre": "Marroqu\u00edn Castle Restaurant",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.862559000000001,
+                -74.0243727
+            ],
+            "nombre": "Bike Park Castillo Marroquin",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.862546699999999,
+                -74.0261457
+            ],
+            "nombre": "Castillo Marroqu\u00edn",
+            "tipo": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.862213999999999,
+                -74.027813
+            ],
+            "nombre": "Carrera de Legionarios",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.861272,
+                -74.02635099999999
+            ],
+            "nombre": "Industrias Fibratank",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8605879,
+                -74.0271307
+            ],
+            "nombre": "Colegio Campestre Bertrand Russell Ch\u00eda",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.859462,
+                -74.02707
+            ],
+            "nombre": "Universidad Cat\u00f3lica de Colombia La Caro",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.861509799999999,
+                -74.0313247
+            ],
+            "nombre": "Universidad de La Sabana Edificio G",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.8606294,
+                -74.0313346
+            ],
+            "nombre": "Universidad de la Sabana E2",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                4.860495999999999,
+                -74.0314545
+            ],
+            "nombre": "Universidad de la Sabana Edificio E1",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "SS SAN PEDRO": [
+        {
+            "lat-lon": [
+                10.944432,
+                -74.835589
+            ],
+            "nombre": "Ticom S.A.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9399118,
+                -74.8343641
+            ],
+            "nombre": "MAKEN S.A.S. | Sanidad Portable en Barranquilla",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9398202,
+                -74.8345489
+            ],
+            "nombre": "SAS PREFABRICATED GARAGES",
+            "tipo": [
+                "general_contractor",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9391671,
+                -74.83464819999999
+            ],
+            "nombre": "Melexa S.A.S Barranquilla",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9431827,
+                -74.8307524
+            ],
+            "nombre": "Tienda Ara",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9437021,
+                -74.83066219999999
+            ],
+            "nombre": "EFECTY EDS ECOS SAN LUIS",
+            "tipo": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9436858,
+                -74.8296245
+            ],
+            "nombre": "FUMINDUSTRIAL. FUMIGACIONES Y SERVICIOS INDUSTRIALES LTDA",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9459221,
+                -74.8349435
+            ],
+            "nombre": "Edivacosta S.A.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.94622,
+                -74.83353
+            ],
+            "nombre": "V\u00cdA BALOTO OLIMPICA 023 LOS ROBLES BARRANQUILLA",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9465148,
+                -74.8345756
+            ],
+            "nombre": "Belleza al D\u00eda Internacional",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9466547,
+                -74.83390399999999
+            ],
+            "nombre": "KARLUZ LIGHTING PRINCIPAL",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9467827,
+                -74.83417829999999
+            ],
+            "nombre": "La Recetta",
+            "tipo": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9420363,
+                -74.827572
+            ],
+            "nombre": "District Educational Institution San Luis",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9433056,
+                -74.8244814
+            ],
+            "nombre": "Salon Del Reino De Los Testigos De Jehov\u00e1 De Sanluis",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9433217,
+                -74.84083799999999
+            ],
+            "nombre": "Construcciones Sierra P\u00e9rez S.A.S.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9488994,
+                -74.8328937
+            ],
+            "nombre": "T-SYSTEM INGENIERIA SAS (Technology System)",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9399525,
+                -74.82507939999999
+            ],
+            "nombre": "Colegio San Alberto Magno",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.9499875,
+                -74.83394179999999
+            ],
+            "nombre": "V\u00cdA BALOTO DIMICOM E U BARRANQUILLA",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LAS AMERICAS A.M. Y CIA LTDA": [
+        {
+            "lat-lon": [
+                10.3441068,
+                -75.4870557
+            ],
+            "nombre": "Hotel Las Olas Mamonal",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3395559,
+                -75.494365
+            ],
+            "nombre": "DistriCandelaria",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3515762,
+                -75.49502129999999
+            ],
+            "nombre": "AZEMBLA S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3420964,
+                -75.4936726
+            ],
+            "nombre": "Oficina Dicermex",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3419242,
+                -75.49359390000001
+            ],
+            "nombre": "Digabe del Caribe y Compa\u00f1\u00eda",
+            "tipo": [
+                "car_repair",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.342667,
+                -75.4937681
+            ],
+            "nombre": "Frisby TLC",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3427112,
+                -75.4937884
+            ],
+            "nombre": "Supervisa s.a.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3428087,
+                -75.493903
+            ],
+            "nombre": "Pop Art Hotel CLC Mamonal",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3412333,
+                -75.4935
+            ],
+            "nombre": "Pr\u00f3tidos S.A.S.",
+            "tipo": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.342047,
+                -75.4949209
+            ],
+            "nombre": "Subway",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3420643,
+                -75.49497439999999
+            ],
+            "nombre": "Centro Empresarial Comfenalco",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3430384,
+                -75.4946482
+            ],
+            "nombre": "MaDoCo XXI SAS sucursal Cartagena",
+            "tipo": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3420725,
+                -75.4951202
+            ],
+            "nombre": "Banco de Occidente",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.341846,
+                -75.4954
+            ],
+            "nombre": "EP Soluciones S.A.S",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3419451,
+                -75.49541769999999
+            ],
+            "nombre": "COCINA DATONY'S",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3411169,
+                -75.4926284
+            ],
+            "nombre": "Fritolay",
+            "tipo": [
+                "moving_company",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.338908,
+                -75.4925435
+            ],
+            "nombre": "Company C.I. Arclad S.A.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.3407945,
+                -75.49739079999999
+            ],
+            "nombre": "Real S.A.",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS BASTIDAS": [
+        {
+            "lat-lon": [
+                11.2372808,
+                -74.1907958
+            ],
+            "nombre": "Drop Bear Hostel",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2400256,
+                -74.18472109999999
+            ],
+            "nombre": "Hostal Kaia",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.236622,
+                -74.1751306
+            ],
+            "nombre": "Hostal del pastor",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.24611,
+                -74.1784815
+            ],
+            "nombre": "La gota fr\u00eda",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2372222,
+                -74.1797222
+            ],
+            "nombre": "Centro B\u00edblico Internacional Emanuel",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2427304,
+                -74.1889283
+            ],
+            "nombre": "Casa pura vida",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2420925,
+                -74.1688488
+            ],
+            "nombre": "I.E.D. Caribbean waves",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2423189,
+                -74.1798132
+            ],
+            "nombre": "Casa Del Pintor",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2432741,
+                -74.1875523
+            ],
+            "nombre": "Habitacion fresca limpia e iluminada",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2414402,
+                -74.19442029999999
+            ],
+            "nombre": "Bbva",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2468099,
+                -74.1924926
+            ],
+            "nombre": "Rodadero In",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2338187,
+                -74.17712279999999
+            ],
+            "nombre": "Clinica Los Nogales (SaludTotal EPS)",
+            "tipo": [
+                "hospital",
+                "point_of_interest",
+                "health",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2470738,
+                -74.1908191
+            ],
+            "nombre": "Piedras y Cascadas",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2408857,
+                -74.1855448
+            ],
+            "nombre": "Casa Azula",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2409018,
+                -74.1880333
+            ],
+            "nombre": "Kingdom Hall",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2326599,
+                -74.17699999999999
+            ],
+            "nombre": "Universidad Aut\u00f3noma de Colombia",
+            "tipo": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2384539,
+                -74.1804725
+            ],
+            "nombre": "Kingdom Hall of Jehovah's Witnesses",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                11.2407865,
+                -74.18456359999999
+            ],
+            "nombre": "Funeraria La Milagrosa",
+            "tipo": [
+                "funeral_home",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "LA FONTANA": [
+        {
+            "lat-lon": [
+                3.9315726,
+                -76.48269619999999
+            ],
+            "nombre": "HOSTAL MARSELLA",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9306211,
+                -76.4792655
+            ],
+            "nombre": "Casa Vacacional La Ciguapa",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.931047599999999,
+                -76.4835192
+            ],
+            "nombre": "ANDINO HOTEL BOUTIQUE",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9336953,
+                -76.4868975
+            ],
+            "nombre": "Hotel Calima Plaza",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9361044,
+                -76.4822506
+            ],
+            "nombre": "CalimaDarien.com, Calima Lake.",
+            "tipo": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.934246899999999,
+                -76.4796042
+            ],
+            "nombre": "Casa Kite",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.932295,
+                -76.4840183
+            ],
+            "nombre": "Banco Agrario de Colombia",
+            "tipo": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9318857,
+                -76.48330829999999
+            ],
+            "nombre": "Cafe Bar El Sitio",
+            "tipo": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.932794199999999,
+                -76.4850568
+            ],
+            "nombre": "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI Calima-E",
+            "tipo": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9313712,
+                -76.4842369
+            ],
+            "nombre": "Municipal Administrative Center",
+            "tipo": [
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.931753199999999,
+                -76.4850062
+            ],
+            "nombre": "Rapitienda El Baraton",
+            "tipo": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9308099,
+                -76.4831129
+            ],
+            "nombre": "CoguaKiteboarding",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9361588,
+                -76.4820448
+            ],
+            "nombre": "Alkimia El Lago",
+            "tipo": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.936040200000001,
+                -76.4820254
+            ],
+            "nombre": "Heladeria Bajo Zero",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.936184599999999,
+                -76.48188999999999
+            ],
+            "nombre": "EDS Petromil La Fontana",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9360677,
+                -76.4822191
+            ],
+            "nombre": "MINIMARKET MARANGUS DARIEN",
+            "tipo": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9362838,
+                -76.4823657
+            ],
+            "nombre": "Vulcanizadora canaguaros",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                3.9362768,
+                -76.48236829999999
+            ],
+            "nombre": "FERREMATERIALES LA FONTANA",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LA BASCULA": [
+        {
+            "lat-lon": [
+                10.1357718,
+                -75.26261339999999
+            ],
+            "nombre": "Restaurante",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1357937,
+                -75.2625346
+            ],
+            "nombre": "PARADA LA BASCULA",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1353789,
+                -75.2630022
+            ],
+            "nombre": "EDS PETROMIL LA BASCULA",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1361949,
+                -75.2642649
+            ],
+            "nombre": "Toll Gambote 5800",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1374189,
+                -75.257601
+            ],
+            "nombre": "Granja Av\u00edcola La Mas\u00eda ( KRIAMOS)",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1355061,
+                -75.2702279
+            ],
+            "nombre": "GRANJA LA ALBORADA",
+            "tipo": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1363107,
+                -75.2703279
+            ],
+            "nombre": "Estaci\u00f3n de Servicio Biomax",
+            "tipo": [
+                "gas_station",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.1367603,
+                -75.27066599999999
+            ],
+            "nombre": "Camaroncitos c\u00f3ctel",
+            "tipo": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LA SUBASTA": [
+        {
+            "lat-lon": [
+                8.5262994,
+                -75.506232
+            ],
+            "nombre": "CC SUBASTA GANADERA DEL SIN\u00da - PUEBLO NUEVO",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.528086299999998,
+                -75.505158
+            ],
+            "nombre": "Petromil La Subasta",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5275453,
+                -75.5051302
+            ],
+            "nombre": "PETROMIL",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.528639899999998,
+                -75.50612679999999
+            ],
+            "nombre": "Hotel las Hamacas - Pueblo Nuevo",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5311347,
+                -75.5036607
+            ],
+            "nombre": "PUEBLO NUEVO",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.53169,
+                -75.50350159999999
+            ],
+            "nombre": "Instituci\u00f3n Educativa Jos\u00e9 Celestino Mutis",
+            "tipo": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5239273,
+                -75.50639559999999
+            ],
+            "nombre": "Palma roja",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.521638799999998,
+                -75.50706009999999
+            ],
+            "nombre": "Vivero San Jos\u00e9",
+            "tipo": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5241469,
+                -75.5107706
+            ],
+            "nombre": "La Casa de Los Quinteros",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5241445,
+                -75.5107783
+            ],
+            "nombre": "Altos del Congo",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5212184,
+                -75.5074618
+            ],
+            "nombre": "LA PLAYITA (restaurante bar)",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5211875,
+                -75.5084375
+            ],
+            "nombre": "Carpinter\u00eda Amauri Sierra",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5200473,
+                -75.5076235
+            ],
+            "nombre": "EBANISTERIA CONTRERAS LA SAGA",
+            "tipo": [
+                "furniture_store",
+                "home_goods_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5198647,
+                -75.50766349999999
+            ],
+            "nombre": "Los Jugos",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.518664899999997,
+                -75.5080797
+            ],
+            "nombre": "Fila Montes Chica",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5179118,
+                -75.5084014
+            ],
+            "nombre": "La Posada del Camino",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5173788,
+                -75.50846949999999
+            ],
+            "nombre": "Taller El Mango",
+            "tipo": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                8.5171454,
+                -75.5085423
+            ],
+            "nombre": "Fabrica De Bloques La Caba\u00f1a",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "EDS LAS MARIAS": [
+        {
+            "lat-lon": [
+                10.229858,
+                -75.4217184
+            ],
+            "nombre": "Petromil",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2299672,
+                -75.42208420000001
+            ],
+            "nombre": "Service Station Las Marias",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2295645,
+                -75.42124190000001
+            ],
+            "nombre": "Full Mart",
+            "tipo": [
+                "grocery_or_supermarket",
+                "point_of_interest",
+                "food",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2292433,
+                -75.4214846
+            ],
+            "nombre": "Restaurante DONDE AGU",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2290887,
+                -75.42155869999999
+            ],
+            "nombre": "Hotel EDS Las Marias",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.231219,
+                -75.42490839999999
+            ],
+            "nombre": "Barber shop",
+            "tipo": [
+                "hair_care",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2314232,
+                -75.4248557
+            ],
+            "nombre": "Kiosco El Mulero",
+            "tipo": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2319264,
+                -75.4254935
+            ],
+            "nombre": "PRIMAX",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2315477,
+                -75.425812
+            ],
+            "nombre": "Estacion De Servicios El Mulero",
+            "tipo": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2338639,
+                -75.42723149999999
+            ],
+            "nombre": "Deep south Am\u00e9ricas LLC",
+            "tipo": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2351249,
+                -75.42613450000002
+            ],
+            "nombre": "Hotel El Mulero",
+            "tipo": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "lat-lon": [
+                10.2363333,
+                -75.4175278
+            ],
+            "nombre": "Granja Pelicanos - madro\u00f1o",
+            "tipo": [
+                "point_of_interest",
+                "food",
+                "establishment"
+            ]
+        }
+    ]
+}
