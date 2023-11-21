@@ -32,7 +32,29 @@
 
 //carga los datos del diccionario de establecimientos cercanos
 var nearDic = {}; 
-   
+
+function dic_icons(items){
+    if(items.includes('lodging')){return 'lodging.png'}
+    if(items.includes('store')){return 'store.png'}
+    if(items.includes('gas_station' )){return 'stat.png'}
+    if(items.includes('restaurant')){ return 'rest.png'}
+    if(items.includes( 'bar' )){return 'bar.png'}
+    if( items.includes('bakery')){return 'bakery.png'}
+    if(items.includes('atm')){return 'atm.png'}
+    if(items.includes('cafe')){ return 'cafe.png'}
+    if(items.includes('airport')){return 'plane.png'}
+    if( items.includes('drugstore')){return 'pharm.png'}
+    if(items.includes('church')){return 'worship.png'}
+    if(items.includes('cafe')){ return 'cafe.png'}
+    if(items.includes('school') | items.includes('university')){return 'school.png'}
+    if( items.includes('drugstore')){return 'bikers.png'}
+    if( items.includes('clothing_store')){return 'cloth-st.png'}
+    if(items.includes('car_dealer')){ return 'car-dealer.png'}
+    if(items.includes('bank')){return 'bank.png'}
+    if( items.includes('point_of_interest')){return 'tourist.png'}
+
+    return 'petromil (2).png'
+} 
 
 // capas de mapas Stadia
 L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
@@ -89,7 +111,7 @@ legend.onAdd = function (map) {
         '0.4 to 0.6: ' + '<span style="background: linear-gradient(90deg, rgba(255, 165, 0, 0.3), rgba(255, 165, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
         '0.6 to 0.8:  ' + '<span style="background: linear-gradient(90deg, rgba(255, 0, 0, 0.3), rgba(255, 0, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
         '0.8 to 1.0: ' + '<span style="background: linear-gradient(90deg, rgba(128, 0, 128, 0.3), rgba(128, 0, 128, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>';
-        div.style.width = '300px'; 
+        div.style.width = '200px'; 
         div.style.fontSize = '20px'; 
         div.style.color = 'white'; 
     return div;
@@ -129,9 +151,9 @@ Papa.parse('data/merged_eds.csv', {
             var tot= parseFloat(station['Total Venta']);
 
             var customIcon = L.icon({
-                iconUrl: 'data/gas-pump.png', // Replace 'path/to/customIcon.png' with the path to your PNG image
-                iconSize: [18, 18], // Adjust the size of the icon as needed
-                iconAnchor: [10, 10], // Adjust the anchor of the icon if necessary
+                iconUrl: 'figs/petromil-eds.png', // Replace 'path/to/customIcon.png' with the path to your PNG image
+                iconSize: [33, 33], // Adjust the size of the icon as needed
+                iconAnchor: [26, 26], // Adjust the anchor of the icon if necessary
             });
 
             if (!isNaN(lat) && isFinite(lat) && !isNaN(lon) && isFinite(lon) && !isNaN(tot)) {
@@ -195,9 +217,15 @@ function addNearFromJSON(station) {
             var aux =pointsData[station];
             aux.forEach(function (element) {
             var coords = element['lat-lon']; // Replace 'latitude' with the actual attribute name in your JSON data
+            var item_nm= dic_icons(element["tipo"])
             console.log(coords);
+            var customIcon = L.icon({
+                iconUrl: 'figs/'+item_nm, // Replace 'path/to/customIcon.png' with the path to your PNG image
+                iconSize: [36, 36], // Adjust the size of the icon as needed
+                iconAnchor: [28, 28], // Adjust the anchor of the icon if necessary
+            });  
             // Create markers for each element and add them to the map
-            L.marker(coords) // Use the coordinates directly as LatLng object
+            L.marker(coords, { icon: customIcon })// Use the coordinates directly as LatLng object
                 .addTo(map)
                 .bindPopup(element['nombre']); 
         });
@@ -209,13 +237,18 @@ function addNearFromJSON(station) {
 function addPointsFromJSON() {
     $.getJSON('data/dic_peajes_mapa.json', function (pointsData) {
                 // Loop through the points in the JSON data
+        var customPeaje = L.icon({
+                iconUrl: 'figs/peaje.png', // Replace 'path/to/customIcon.png' with the path to your PNG image
+                iconSize: [28, 28], // Adjust the size of the icon as needed
+                iconAnchor: [17, 17], // Adjust the anchor of the icon if necessary
+            });        
         Object.keys(pointsData).forEach(function (pointName) {
             var point = pointsData[pointName];
             var lat = point.lat; // Latitude from the point object
             var lon = point.lon; // Longitude from the point object
 
                     // Create a marker for each point and add it to the map
-            L.marker([lat, lon])
+            L.marker([lat, lon], { icon: customPeaje })
                 .addTo(map)
                 .bindPopup(pointName); // Use the point name as the popup content
         });
