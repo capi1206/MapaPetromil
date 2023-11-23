@@ -18,40 +18,93 @@
         width: 100%;
         height: 100vh;
     }
+    .integrity-container{
+        position: absolute;
+        top: 10px;
+        left:900px;
+/* Set a maximum width for the legends container */
+        z-index: 1000;
+
+    }
+    .petromil-container {
+    position: absolute;
+    top: -50px;
+    left: -190px;
+    display: flex;
+    align-items: flex-start; /* Align items to the top */
+    justify-content: flex-end; /* Adjust the height as needed */
+    z-index: 1000;
+}
+    .legend-container {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        width: 300px; /* Set a maximum width for the legends container */
+        overflow-y: auto; /* Enable vertical scroll if the legends exceed container height */
+        padding: 5px;
+        font-size: 20px; /* Set font size to 20px */
+        color: white;
+        z-index: 1000; 
+    }
+    .integrity-logo {
+    transform: scale(0.3);/* Adjust right position */
+    }
+    .petromil-logo {
+    transform: scale(0.35);/* Adjust right position */
+    }
+    .legend-item {
+        display: none;
+        width: 150px;
+        height: 50px;
+        margin-bottom: 5px; /* Add margin between legends */
+    }
+
+    .legend-item img {
+        width: 40px; /* Set a fixed size for the icons */
+        height: 40px;
+        margin-right: 10px; /* Add space between icon and text */
+    }
     </style>
 
 </head>
 <body>
-    <div id="map" ></div>
+    <div class="petromil-container" id="petromil-container"><img src="figs/petromil.png" class="logo petromil-logo"></div>
+    <div class="integrity-container" id="integrity-container"><img src="figs/integrity.png" class="logo integrity-logo"></div>
     
+    <div id="map" ></div>
+    <div class="legend-container" id="legends-container"></div>
     <script>
        var map = L.map('map', {
     center: [4.5709, -74.2973],
     zoom: 7,
 });
 
-//carga los datos del diccionario de establecimientos cercanos
+
 var nearDic = {}; 
 
 function dic_icons(items){
     if(items.includes('lodging')){return 'lodging.png'}
+    if(items.includes('museum')){return 'museum.png'}
     if(items.includes('store')){return 'store.png'}
-    if(items.includes('gas_station' )){return 'stat.png'}
-    if(items.includes('restaurant')){ return 'rest.png'}
+    if(items.includes('gas_station' )){return 'gas_station.png'}
+    if(items.includes('restaurant')){ return 'restaurant.png'}
     if(items.includes( 'bar' )){return 'bar.png'}
     if( items.includes('bakery')){return 'bakery.png'}
     if(items.includes('atm')){return 'atm.png'}
     if(items.includes('cafe')){ return 'cafe.png'}
-    if(items.includes('airport')){return 'plane.png'}
-    if( items.includes('drugstore')){return 'pharm.png'}
-    if(items.includes('church')){return 'worship.png'}
-    if(items.includes('cafe')){ return 'cafe.png'}
-    if(items.includes('school') | items.includes('university')){return 'school.png'}
-    if( items.includes('drugstore')){return 'bikers.png'}
-    if( items.includes('clothing_store')){return 'cloth-st.png'}
-    if(items.includes('car_dealer')){ return 'car-dealer.png'}
+    if(items.includes('airport')){return 'airport.png'}
+    if( items.includes('drugstore') | items.includes('pharmacy') ){return 'pharmacydrug.png'}
+    if(items.includes('church')){return 'church.png'}
+    if(items.includes('health')){ return 'health.png'}
+    if(items.includes('school') | items.includes('university')){return 'schooluniversity.png'}
+    if( items.includes('bicycle_store')){return 'bicycle_store.png'}
+    if( items.includes('clothing_store') | items.includes('shopping_mall')){return 'clothing_storeshopping_mall.png'}
+    if(items.includes('car_dealer')){ return 'car_dealer.png'}
+    if(items.includes('police')){ return 'police.png'}
     if(items.includes('bank')){return 'bank.png'}
-    if( items.includes('point_of_interest')){return 'tourist.png'}
+    if(items.includes('finance')){return 'finance.png'}
+    if(items.includes('funeral_home')){return 'funeral_home.png'}
+    if( items.includes('point_of_interest')){return 'point_of_interest.png'}
 
     return 'petromil (2).png'
 } 
@@ -72,7 +125,7 @@ $.getJSON('rutas2.geojson', function (data) {
                     weight: 1,
                 };
             }
-            var fillColor = getColorFromVolume(importance);
+            var fillColor = getColorFromVolume(Math.pow(importance, 0.5));
             return {
                 color: fillColor,
                 weight: 1,
@@ -88,7 +141,7 @@ $.getJSON('rutas2.geojson', function (data) {
 
 //añade leyenda que explica los colores en las rutas
 var legend = L.control({ position: 'bottomright' });
-
+//leyenda del volumen de rutas
 legend.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'legend');
     var grades = [0, 0.2, 0.4, 0.6, 0.8, 1];
@@ -105,31 +158,82 @@ legend.onAdd = function (map) {
         );
     }
     div.innerHTML +=
-        '<br><span style="font-weight:bold;">Volumen de rutas:</span><br>' +
-        '0.0 to 0.2: ' + '<span style="background: linear-gradient(90deg, rgba(0, 255, 0, 0.3), rgba(0, 255, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
-        '0.2 to 0.4: ' + '<span style="background: linear-gradient(90deg, rgba(255, 255, 0, 0.3), rgba(255, 255, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
-        '0.4 to 0.6: ' + '<span style="background: linear-gradient(90deg, rgba(255, 165, 0, 0.3), rgba(255, 165, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
-        '0.6 to 0.8:  ' + '<span style="background: linear-gradient(90deg, rgba(255, 0, 0, 0.3), rgba(255, 0, 0, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
-        '0.8 to 1.0: ' + '<span style="background: linear-gradient(90deg, rgba(128, 0, 128, 0.3), rgba(128, 0, 128, 1)); padding-left: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+        '<br><span style="font-weight:bold;">Volumen de rutas</span><br>' +
+        '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&ensp;Baja:' + '<span style="background: linear-gradient(90deg, rgba(0, 255, 0, 0.3), rgba(0, 255, 0, 1)); padding-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
+        'Media-baja: ' + '<span style="background: linear-gradient(90deg, rgba(255, 255, 0, 0.3), rgba(255, 255, 0, 1)); padding-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
+        '  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media:' + '<span style="background: linear-gradient(90deg, rgba(255, 165, 0, 0.3), rgba(255, 165, 0, 1)); padding-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
+        '&ensp;Media-alta:' + '<span style="background: linear-gradient(90deg, rgba(255, 0, 0, 0.3), rgba(255, 0, 0, 1)); padding-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>' + '<br>' +
+        '&ensp;&ensp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&ensp;Alta:   ' + '<span style="background: linear-gradient(90deg, rgba(128, 0, 128, 0.3), rgba(128, 0, 128, 1)); padding-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;</span>';
         div.style.width = '200px'; 
         div.style.fontSize = '20px'; 
         div.style.color = 'white'; 
     return div;
 };
 
-legend.addTo(map);
+var legendLodging = createLegend('lodging.png', ['Hospedaje']);
+var legendMuseum = createLegend('museum.png', ['Museo']);
+var legendStore = createLegend('store.png', ['Tienda']);
+var legendBakery = createLegend('bakery.png', ['Panadería']);
+var legendBakery = createLegend('restaurant.png', ['Restaurante']);
+var legendATM = createLegend('atm.png', ['Cajero']);
+var legendCafe = createLegend('cafe.png', ['Café']);
+var legendCafe = createLegend('bar.png', ['Bar']);
+var legendAir = createLegend('airport.png', ['Aeropuerto']);
+var legendPharm = createLegend('pharmacydrug.png', ['Farmacia']);
+var legendWorsh= createLegend('church.png', ['Iglesia']);
+var legendHelth = createLegend('health.png', ['Salud']);
+var legendBikes = createLegend('bikes.png', ['Bicicletas']);
+var legendSchool = createLegend('schooluniversity.png', ['Educación']);
+var legendCloth = createLegend('clothing_storeshopping_mall.png', ['Almacén']);
+var legendCar= createLegend('car_dealer.png', ['Automotríz']);
+var legendPoli = createLegend('police.png', ['Policía']);
+var legendBank = createLegend('bank.png', ['Banco']);
+var legendFin = createLegend('finance.png', ['Intercambios']);
+var legendFuneral= createLegend('funeral_home.png', ['Funeraria']);
+var legendTour= createLegend('point_of_interest.png', ['Punto de interés']);
 
-// genera el color apartir del volumen de las carreteras, calculado por volumenes de estaciones cercanas
-function getColorFromVolume(volume) {
-    var hue = (1- volume) * 120; // Adjust the 120 based on the range of colors required
-    var color = 'hsl(' + hue + ', 100%, 50%)';
-    return color;
+function createLegend(iconPath, details) {
+            var legendDiv = document.createElement('div');
+            legendDiv.innerHTML = `<img src="figs/${iconPath}"> - ${details.join(', ')}`;
+            legendDiv.style.display = 'flex';
+            legendDiv.style.alignItems = 'center'; // Align items along the cross-axis (vertically)
+            legendDiv.style.width = 'fit-content';
+            legendDiv.style.display = 'none';
+            legendDiv.name = iconPath;
+            legendDiv.className = 'legend-item'; // Add a class for styling purposes
+
+            // Append the legend to the legends container
+            var legendsContainer = document.getElementById('legends-container');
+            legendsContainer.appendChild(legendDiv);
+
+            return legendDiv;
+        }
+
+var listLegends=[legendLodging,legendMuseum,legendStore,legendBakery,legendATM,legendCafe,legendAir,legendPharm,legendWorsh,legendHelth,legendBikes,legendSchool,
+    legendCloth,legendCar,legendPoli,legendBank,legendFin,legendFuneral,legendTour]
+function addLegendsIcons(items){
+    listLegends.forEach(legend => legend.style.display = 'none');
+
+    listLegends.forEach(legend => {
+    if (items.some(sub => legend.name.includes(sub))) {
+        legend.style.display = 'block';
+    }
+});
+console.log(items)
 }
 
 
 
 
 
+legend.addTo(map);
+
+// genera el color apartir del volumen de las carreteras, calculado por volumenes de estaciones cercanas
+function getColorFromVolume(volume) {
+    var hue = (1-  volume) * 120; // Adjust the 120 based on the range of colors required
+    var color = 'hsl(' + hue + ', 100%, 50%)';
+    return color;
+}
 
 
 Papa.parse('data/merged_eds.csv', {
@@ -140,8 +244,7 @@ Papa.parse('data/merged_eds.csv', {
                         var validEntries = stationData.filter(entry => {
                                     var totalVenta = parseFloat(entry['Total Venta']);
                                     return !isNaN(totalVenta) && isFinite(totalVenta);
-                                });
-    //min-max vols in stations                            
+                                });                            
     var minV = 42743612.0;
     var maxV = 2172345968.0;
     for (var i = 0; i < stationData.length; i++) {
@@ -165,8 +268,8 @@ Papa.parse('data/merged_eds.csv', {
                 L.circle([lat, lon], {
                                         radius: 300 +((k +1)/100)*normalizedVenta*10200,
                                         fillColor: 'white',
-                                        fillOpacity: 0.1- k/100, // Adjust as needed for the faded outer annulus
-                                        stroke: false // Remove the stroke for the outer annulus
+                                        fillOpacity: 0.1- k/100, 
+                                        stroke: false 
                                     }).addTo(map);
 
             }  
@@ -179,10 +282,6 @@ Papa.parse('data/merged_eds.csv', {
 
             
 
-    // Fit the map's view to display the circle
-        
-
-            // Use the custom marker for click interaction
             customMarker.on('click', function (e) {
                 var clickedMarker = e.target; // Reference to the clicked marker
                 var radiusCircle = L.circle(clickedMarker.getLatLng(), {
@@ -193,7 +292,18 @@ Papa.parse('data/merged_eds.csv', {
                 var name = clickedMarker.getPopup().getContent(); // Get the name from the popup content
                 map.fitBounds(radiusCircle.getBounds());
                 console.log(name);
+                
+
+                //legendLodging.style.display = 'none';
+                //legendMuseum.style.display = 'none';
                 addNearFromJSON(name);
+    // Hide other legends...
+    
+    // Show the appropriate legend based on the clicked marker
+        
+
+
+
             });
 
         }
@@ -208,56 +318,54 @@ function getColorFromNormalizedValue(value) {
     return 'hsl(' + hue + ', 100%, ' + lightness + '%)';
 }
 
-
-
-
 function addNearFromJSON(station) {
     $.getJSON('data/dic_near2.json', function (pointsData) {
-        
+             
             var aux =pointsData[station];
+            var listAux=[];
             aux.forEach(function (element) {
-            var coords = element['lat-lon']; // Replace 'latitude' with the actual attribute name in your JSON data
+            var coords = element['lat-lon']; 
             var item_nm= dic_icons(element["tipo"])
-            console.log(coords);
+            listAux.push(...element["tipo"]);
+            //console.log(coords);
             var customIcon = L.icon({
-                iconUrl: 'figs/'+item_nm, // Replace 'path/to/customIcon.png' with the path to your PNG image
-                iconSize: [36, 36], // Adjust the size of the icon as needed
-                iconAnchor: [28, 28], // Adjust the anchor of the icon if necessary
+                iconUrl: 'figs/'+item_nm, 
+                iconSize: [36, 36], 
+                iconAnchor: [28, 28], 
             });  
-            // Create markers for each element and add them to the map
-            L.marker(coords, { icon: customIcon })// Use the coordinates directly as LatLng object
+            
+            L.marker(coords, { icon: customIcon })
                 .addTo(map)
                 .bindPopup(element['nombre']); 
         });
-    });
+        //console.log(listAux);
+        addLegendsIcons(listAux);
+        
+    
+})
 }
-
-
-
 function addPointsFromJSON() {
     $.getJSON('data/dic_peajes_mapa.json', function (pointsData) {
-                // Loop through the points in the JSON data
+                
         var customPeaje = L.icon({
-                iconUrl: 'figs/peaje.png', // Replace 'path/to/customIcon.png' with the path to your PNG image
-                iconSize: [28, 28], // Adjust the size of the icon as needed
-                iconAnchor: [17, 17], // Adjust the anchor of the icon if necessary
+                iconUrl: 'figs/peaje.png', 
+                iconSize: [28, 28], 
+                iconAnchor: [17, 17], 
             });        
         Object.keys(pointsData).forEach(function (pointName) {
             var point = pointsData[pointName];
-            var lat = point.lat; // Latitude from the point object
-            var lon = point.lon; // Longitude from the point object
-
-                    // Create a marker for each point and add it to the map
+            var lat = point.lat; 
+            var lon = point.lon; 
+                    
             L.marker([lat, lon], { icon: customPeaje })
                 .addTo(map)
-                .bindPopup(pointName); // Use the point name as the popup content
+                .bindPopup(pointName); 
         });
     });
 }
 
         // Call the function to add points from the JSON file to the map
 addPointsFromJSON();
-
 
 
     </script>
