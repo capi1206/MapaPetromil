@@ -2017,7 +2017,7 @@
             ],
             "nombre": "THE REBATE DROGUERIA",
             "tipo": [
-                "drugstore",
+                "drug",
                 "health",
                 "point_of_interest",
                 "store",
@@ -2031,7 +2031,7 @@
             ],
             "nombre": "Farmacia Torres",
             "tipo": [
-                "drugstore",
+                "drug",
                 "health",
                 "point_of_interest",
                 "store",
@@ -3398,7 +3398,7 @@
             ],
             "nombre": "LA REBAJA NO. 2 - SAHAGUN",
             "tipo": [
-                "drugstore",
+                "drug",
                 "health",
                 "store",
                 "point_of_interest",
@@ -3566,7 +3566,7 @@
             ],
             "nombre": "LA REBAJA PLUS NO. 1 - SAHAGUN",
             "tipo": [
-                "drugstore",
+                "drug",
                 "health",
                 "store",
                 "point_of_interest",
@@ -4646,7 +4646,7 @@
             ],
             "nombre": "REBAJA No. 1 SINCELEJO OLD MARKET",
             "tipo": [
-                "drugstore",
+                "drug",
                 "health",
                 "store",
                 "point_of_interest",
@@ -5527,7 +5527,7 @@
             ],
             "nombre": "LA REBAJA NO. 1 - NECOCL\u00cd",
             "tipo": [
-                "drugstore",
+                "drug",
                 "store",
                 "health",
                 "point_of_interest",
