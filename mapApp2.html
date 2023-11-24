@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
     body, html {
@@ -26,6 +27,33 @@
         z-index: 1000;
 
     }
+    #chart-container {
+    position: absolute;
+    bottom: 20px; /* Adjust as needed */
+    left: 50%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    flex-direction: column-reverse; 
+    transform: translateX(-50%);
+    color:white;
+    z-index: 1000;
+}
+#graph-container{
+    background-color: white;
+}
+#show-chart-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007ccf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 10px;
+    order: 9999;
+}
     .petromil-container {
     position: absolute;
     top: -50px;
@@ -55,8 +83,8 @@
     .legend-item {
         display: none;
         width: 150px;
-        height: 50px;
-        margin-bottom: 5px; /* Add margin between legends */
+        height: 42px;
+        margin-bottom: 3px; /* Add margin between legends */
     }
 
     .legend-item img {
@@ -70,7 +98,10 @@
 <body>
     <div class="petromil-container" id="petromil-container"><img src="figs/petromil.png" class="logo petromil-logo"></div>
     <div class="integrity-container" id="integrity-container"><img src="figs/integrity.png" class="logo integrity-logo"></div>
-    
+    <div id="chart-container" >
+        <button id="show-chart-button" style="display: none;">Tipos de negocios</button>
+        <div id="graph-container" style="display: none;"></div>
+    </div>
     <div id="map" ></div>
     <div class="legend-container" id="legends-container"></div>
     <script>
@@ -97,8 +128,8 @@ function dic_icons(items){
     if(items.includes('church')){return 'church.png'}
     if(items.includes('health')){ return 'health.png'}
     if(items.includes('school') | items.includes('university')){return 'schooluniversity.png'}
-    if( items.includes('bicycle_store')){return 'bicycle_store.png'}
-    if( items.includes('clothing_store') | items.includes('shopping_mall')){return 'clothing_storeshopping_mall.png'}
+    if( items.includes('bicycle_store')){return 'bicycle.png'}
+    if( items.includes('clothing_store') | items.includes('shopping_mall')){return 'clothingshopping_mall.png'}
     if(items.includes('car_dealer')){ return 'car_dealer.png'}
     if(items.includes('police')){ return 'police.png'}
     if(items.includes('bank')){return 'bank.png'}
@@ -174,17 +205,18 @@ var legendLodging = createLegend('lodging.png', ['Hospedaje']);
 var legendMuseum = createLegend('museum.png', ['Museo']);
 var legendStore = createLegend('store.png', ['Tienda']);
 var legendBakery = createLegend('bakery.png', ['Panadería']);
-var legendBakery = createLegend('restaurant.png', ['Restaurante']);
+var legendRest = createLegend('restaurant.png', ['Restaurante']);
+var legendGas = createLegend('gas_station.png', ['Gasolinería']);
 var legendATM = createLegend('atm.png', ['Cajero']);
 var legendCafe = createLegend('cafe.png', ['Café']);
-var legendCafe = createLegend('bar.png', ['Bar']);
+var legendBar= createLegend('bar.png', ['Bar']);
 var legendAir = createLegend('airport.png', ['Aeropuerto']);
 var legendPharm = createLegend('pharmacydrug.png', ['Farmacia']);
 var legendWorsh= createLegend('church.png', ['Iglesia']);
-var legendHelth = createLegend('health.png', ['Salud']);
-var legendBikes = createLegend('bikes.png', ['Bicicletas']);
+var legendHealth = createLegend('health.png', ['Salud']);
+var legendBikes = createLegend('bicycle.png', ['Bicicletas']);
 var legendSchool = createLegend('schooluniversity.png', ['Educación']);
-var legendCloth = createLegend('clothing_storeshopping_mall.png', ['Almacén']);
+var legendCloth = createLegend('clothingshopping_mall.png', ['Almacén']);
 var legendCar= createLegend('car_dealer.png', ['Automotríz']);
 var legendPoli = createLegend('police.png', ['Policía']);
 var legendBank = createLegend('bank.png', ['Banco']);
@@ -209,13 +241,14 @@ function createLegend(iconPath, details) {
             return legendDiv;
         }
 
-var listLegends=[legendLodging,legendMuseum,legendStore,legendBakery,legendATM,legendCafe,legendAir,legendPharm,legendWorsh,legendHelth,legendBikes,legendSchool,
-    legendCloth,legendCar,legendPoli,legendBank,legendFin,legendFuneral,legendTour]
+var listLegends=[legendLodging,legendMuseum,legendStore,legendBakery,legendGas,legendRest,
+    legendATM,legendCafe,legendAir,legendBar,legendPharm,legendWorsh,legendHealth,legendBikes,
+    legendSchool,legendCloth,legendCar,legendPoli,legendBank,legendFin,legendFuneral,legendTour]
 function addLegendsIcons(items){
     listLegends.forEach(legend => legend.style.display = 'none');
 
     listLegends.forEach(legend => {
-    if (items.some(sub => legend.name.includes(sub))) {
+    if (items.some(sub => legend.name.includes(sub.replace('.png','')))) {
         legend.style.display = 'block';
     }
 });
@@ -246,6 +279,7 @@ Papa.parse('data/merged_eds.csv', {
                                     return !isNaN(totalVenta) && isFinite(totalVenta);
                                 });                            
     var minV = 42743612.0;
+    
     var maxV = 2172345968.0;
     for (var i = 0; i < stationData.length; i++) {
             var station = stationData[i];
@@ -292,18 +326,12 @@ Papa.parse('data/merged_eds.csv', {
                 var name = clickedMarker.getPopup().getContent(); // Get the name from the popup content
                 map.fitBounds(radiusCircle.getBounds());
                 console.log(name);
-                
+                document.getElementById('show-chart-button').style.display = 'block';
 
-                //legendLodging.style.display = 'none';
-                //legendMuseum.style.display = 'none';
+                document.getElementById('show-chart-button').addEventListener('click', function () {
+                  showChartWithData(name);
+                    });
                 addNearFromJSON(name);
-    // Hide other legends...
-    
-    // Show the appropriate legend based on the clicked marker
-        
-
-
-
             });
 
         }
@@ -313,12 +341,120 @@ Papa.parse('data/merged_eds.csv', {
       
         
 function getColorFromNormalizedValue(value) {
-    var hue = 240; // Blue hues are around 240 degrees
-    var lightness = 50 - value * 50; // Adjust lightness based on the value
+    var hue = 240; 
+    var lightness = 50 - value * 50; 
     return 'hsl(' + hue + ', 100%, ' + lightness + '%)';
 }
 
+function showChartWithData(station) {
+    document.getElementById('show-chart-button').style.display="none";
+    var lista = [];
+
+    // Wrap the AJAX call in a Promise
+    var dataPromise = new Promise(function(resolve, reject) {
+        $.getJSON('data/dic_near2.json', function (pointsData) {
+            var aux = pointsData[station];
+            aux.forEach(function (element) {
+                var item_nm = dic_icons(element["tipo"])
+                lista.push(item_nm.replace('.png', ''));
+            });
+            resolve(lista); // Resolve the promise with the data
+        }).fail(function() {
+            reject(new Error('Failed to fetch data')); // Reject the promise if there's an error
+        });
+    });
+
+    // When the data is available, create the chart
+    dataPromise.then(function(lista) {
+        var wordFrequency = {};
+        for (var i = 0; i < lista.length; i++) {
+            var word = lista[i];
+            if (wordFrequency[word]) {
+                wordFrequency[word]++;
+            } else {
+                wordFrequency[word] = 1;
+            }
+        }
+
+        var words = Object.keys(wordFrequency);
+        var frequencies = Object.values(wordFrequency);
+        
+
+        var graphContainer = document.getElementById('graph-container');
+        var canvas = document.createElement('canvas');
+        canvas.width = 400; // Adjust the width as needed
+        canvas.height = 300; // Adjust the height as needed
+        graphContainer.style.display="block";
+        graphContainer.appendChild(canvas);
+        var ctx = canvas.getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: words,
+                datasets: [{
+                    label: 'Word Frequency',
+                    data: frequencies,
+                    backgroundColor: 'rgba(0, 124, 207, 1)', // Grey background color
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true // Start y-axis from zero
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: 'black' // Set legend label color to black
+                        }
+                    }
+                }
+            }
+        });
+        var closeButton = document.createElement('button');
+    closeButton.innerText = 'Cerrar';
+    closeButton.style.marginTop = '10px'; // Adjust margin as needed
+
+    closeButton.addEventListener('click', function() {
+        canvas.remove(); // Remove the canvas containing the chart
+        closeButton.remove(); // Remove the close button
+    });
+
+    graphContainer.appendChild(closeButton);
+    
+    
+    }).catch(function(error) {
+        console.error(error); // Handle any errors from fetching data
+    });
+    
+}
+
+
+
+
+
+// Extracting words and frequencies for the chart
+
+
+// Selecting the chart container
+
+
+// Creating a canvas element to render the chart
+
+
+// Drawing the bar chart using Chart.js
+
+
+
 function addNearFromJSON(station) {
+    //esconde todos los items cercanos anteriores
+    var prevItems = document.querySelectorAll('#near-item'); 
+    prevItems.forEach(function (item) {
+        item.style.display = 'none'; 
+    });
     $.getJSON('data/dic_near2.json', function (pointsData) {
              
             var aux =pointsData[station];
@@ -326,7 +462,7 @@ function addNearFromJSON(station) {
             aux.forEach(function (element) {
             var coords = element['lat-lon']; 
             var item_nm= dic_icons(element["tipo"])
-            listAux.push(...element["tipo"]);
+            listAux.push(item_nm);
             //console.log(coords);
             var customIcon = L.icon({
                 iconUrl: 'figs/'+item_nm, 
@@ -334,9 +470,11 @@ function addNearFromJSON(station) {
                 iconAnchor: [28, 28], 
             });  
             
-            L.marker(coords, { icon: customIcon })
+            var marker=L.marker(coords, { icon: customIcon })
                 .addTo(map)
                 .bindPopup(element['nombre']); 
+
+            marker._icon.id = 'near-item';    
         });
         //console.log(listAux);
         addLegendsIcons(listAux);
@@ -344,6 +482,7 @@ function addNearFromJSON(station) {
     
 })
 }
+
 function addPointsFromJSON() {
     $.getJSON('data/dic_peajes_mapa.json', function (pointsData) {
                 
